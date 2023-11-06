@@ -1,5 +1,5 @@
 # Offline Voice Assistant with TTS and LLMs
-Use TTS with Mistral-7b or Other LLMs for an Offline Voice Assistant
+Use TTS - STT with Mistral-7b or Other LLMs for an Offline Voice Assistant
 
 ## Introduction
 
