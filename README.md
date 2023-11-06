@@ -37,7 +37,7 @@ These are the resources we've found so far that can help with integrating TTS wi
    - **Description:** ChatGPT Al Voice Chatbot Build with React and FAST API Combo Develop a human-like voice assistant with ChatGPT and Eleven Labs to make one of the most advanced Chatbots today so that you can prove that not only will coders survive the Al transition happening right now, but that they will thrive. With just some basic knowledge on python and javascript, you are going to build Rachel Chat, a chatbot which uses the power of ChatGPT for conversation, whether it be for sales, teaching you Spanish (or any language) talking about sci-fi movies - whatever your interest and application is.
    - [Link to Video](https://youtu.be/x7PmlpUiTAY?si=FLLY1NJ0oPmwo8V-)
    - [Link to Code](https://www.patreon.com/posts/source-code-of-81993157?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)
-   - [Last Download](#) if code is no longer there (add link to files from download)
+   - [Last Download](https://github.com/Zbrooklyn/Offline-Voice-LLM/tree/main/Resorces/From%20CourseOnDemand) if code is no longer there (add link to files from download)
    - [Course On Demand](https://www.patreon.com/CourseOnDemand) Thank you!
 
 2. **JARVIS : A ChatGPT (OpenAl) Powered Raspberry Pi Based Voice Assistant**
